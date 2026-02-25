@@ -9,4 +9,4 @@ Organizo meus projetos no GitHub 📁
 
 ##
 
-<div></div>
+<div><link rel="stylesheet" tipo='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></div>
